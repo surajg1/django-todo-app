@@ -1,0 +1,8 @@
+.add_item{
+    color: white;
+    font-size: 4rem;
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    padding: 1rem;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', serif;
+}
